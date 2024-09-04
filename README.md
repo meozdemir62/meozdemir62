@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Merve @meozdemir62 :')
+- 👋 Hi, I’m Merve @merve-ozdemir :')
 - 🌸 I'm a cancer biologist at the Dana-Farber Cancer Institute in Boston, USA.
 - 🎓 In 2023, I graduated from UC Berkeley with a degree in Molecular & Cell Biology.
 - 🧬 My work focuses on pediatric T cell acute lymphoblastic leukemia (T-ALL), multiple myeloma and (more recently) pediatric low-grade glioma.
