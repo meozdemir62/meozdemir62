@@ -7,6 +7,7 @@
 - 💞️ I’m hoping to continue my studies in graduate school, focusing on bioinformatics/biostatistics. 
 - 📫 How to reach me: meozdemir62@gmail.com
 - ⚡ Here, I'm making a collection of projects I work on in my free time. I'm still learning, so any feedback is appreciated! <3
+- 👾 Check out my online portfolio merve-ozdemir.github.io
 
 <!---
 meozdemir62/meozdemir62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
